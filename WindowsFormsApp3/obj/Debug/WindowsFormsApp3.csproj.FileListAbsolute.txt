@@ -1,0 +1,21 @@
+C:\Users\aybm\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\aybm\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\aybm\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\aybm\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\aybm\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\aybm\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\aybm\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\aybm\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\aybm\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\aybm\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\aybm\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\asşfs\Desktop\WindowsFormsApp3 - Kopya\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\asşfs\Desktop\WindowsFormsApp3 - Kopya\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\asşfs\Desktop\WindowsFormsApp3 - Kopya\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\asşfs\Desktop\WindowsFormsApp3 - Kopya\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\asşfs\Desktop\WindowsFormsApp3 - Kopya\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\asşfs\Desktop\WindowsFormsApp3 - Kopya\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\asşfs\Desktop\WindowsFormsApp3 - Kopya\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\asşfs\Desktop\WindowsFormsApp3 - Kopya\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\asşfs\Desktop\WindowsFormsApp3 - Kopya\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\asşfs\Desktop\WindowsFormsApp3 - Kopya\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
